@@ -1,0 +1,8 @@
+CI/CD Experience
+# Prior CI/CD Experience
+
+Before this class, I did not have direct hands-on experience with CI/CD. I had used GitHub for uploading and managing code, but I had never created automated workflows with tools like GitHub Actions.
+
+This project is helping me learn the basic idea of continuous integration and continuous delivery, especially how automation can help with building and testing code.
+
+AI usage disclosure: I used ChatGPT to help explain the task and polish the writing.
